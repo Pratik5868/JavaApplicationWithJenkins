@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>About page</title>
+<title>This is Service JSP File</title>
 </head>
 <body>
-<h1>This is about page</h1>
-<a href="Services.jsp">Go to Services page</a>
+  <h1 style="color: green;">This is Service file to the repository</h1>
 </body>
 </html>
